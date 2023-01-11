@@ -1,3 +1,3 @@
-# Experimentation and Prediction of Online Shopper’s purchasing Intention using decision tree and keras (neural network)
+# Experimentation and Prediction of Online Shopper’s purchasing Intention
 
 In this research, I propose a system that can predict the shopping intent of online shoppers in real-time as they navigate through different pages on an e-commerce website. To achieve this, I use data on the types of pages visited by returning and new shoppers, as well as session information for some shoppers. These features are then input into a decision tree classifier, which I also optimize using oversampling techniques to improve its accuracy and scalability with neural network. My findings indicate that the decision tree classifier is the most accurate algorithm for this task, based on its accuracy and F1 score compared to other methods tested.
